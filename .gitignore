@@ -1,0 +1,26 @@
+﻿# Visual Studio 本机缓存与个人设置
+.vs/
+*.vcxproj.user
+*.suo
+*.user
+
+# 根目录下的编译结果
+/bin/
+/bin-int/
+/Debug/
+/Release/
+/x64/
+/x86/
+
+# Opengl 项目内的编译结果
+/Opengl/Debug/
+/Opengl/Release/
+/Opengl/x64/
+/Opengl/x86/
+
+# 编译中间文件
+*.obj
+*.pdb
+*.ilk
+*.pch
+*.tlog
